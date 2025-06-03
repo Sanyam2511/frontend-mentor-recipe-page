@@ -40,7 +40,7 @@ While building this project, I learned how to:
 - Create responsive layouts with Flexbox
 
 Example snippet:
-
+``html
  <div class="prep"><h3>Preparation time</h3>
     <ul>
   <li><b>Total</b>: Approximately 10 minutes</li>
@@ -52,5 +52,5 @@ Example snippet:
 
 ## Author
 
-- Website - [Add your name here](https://sanyam2511.github.io/portfolio/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Sanyam2511)
+- Website - [Sanyam Phartyal](https://sanyam2511.github.io/portfolio/)
+- Frontend Mentor - [@Sanyam2511](https://www.frontendmentor.io/profile/Sanyam2511)
